@@ -41,14 +41,3 @@ char	*ft_strjoin(int size, char **strs, char *sep)
 	s[c] = '\0';
 	return (s);
 }
-/*
-int	main(void)
-{
-	char	*tab[4];
-	tab[0] = " ";
-	tab[1] = " ";
-	tab[2] = " ";
-	tab[3] = " ";
-	printf("%s", ft_strjoin(4, tab, "Pasquale"));
-	return (0);
-}*/
