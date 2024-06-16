@@ -45,7 +45,7 @@ char	*ft_strdup(char *src)
 // 	char    *str;
 // 	char    *new_str;
 
-// 	str = "Pasquale Sucks";
+// 	str = "labello learn";
 // 	new_str = ft_strdup(str);
 // 	printf("%s\n", new_str);
 // }
